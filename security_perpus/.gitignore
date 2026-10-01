@@ -1,0 +1,7 @@
+.env
+active_session.json
+venv/
+dist/
+build/
+__pycache__/
+*.spec
